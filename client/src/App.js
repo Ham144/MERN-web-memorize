@@ -1,12 +1,13 @@
 import React from 'react'
+// import {Container, AppBar, Typography, Grow, Grid } from '@material-ui/core'
 
-const App =()=>{
+// import memories from "./images/memories.png"
+
+const App = ()=>{
     return (
-        <div>
-            <h1>APPPPPP</h1>
-        </div>
-    )
+        console.log(`tessss`)
+    );
 }
 
 
-export default App
+export default App;
